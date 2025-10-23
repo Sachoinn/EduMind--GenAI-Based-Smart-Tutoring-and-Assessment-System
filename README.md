@@ -1,7 +1,7 @@
 # EduMind--GenAI-Based-Smart-Tutoring-and-Assessment-System
 EduMind is an AI-powered platform designed to revolutionize personalized learning.  
 It uses Natural Language Processing (NLP) and Generative AI to assess student knowledge,  
-identify weak areas**, and **deliver intelligent tutoring feedback — bridging the gap between learning and evaluation.
+identify weak areas, and deliver intelligent tutoring feedback — bridging the gap between learning and evaluation.
 
 EduMind is divided into two major phases:
 
